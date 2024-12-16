@@ -1,0 +1,27 @@
+C:\Users\Hamza\source\repos\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.AssemblyReference.cache
+C:\Users\Hamza\source\repos\Task Manager\Task Manager\obj\Debug\Dictionaries\Colors.baml
+C:\Users\Hamza\source\repos\Task Manager\Task Manager\obj\Debug\Dictionaries\Icons.baml
+C:\Users\Hamza\source\repos\Task Manager\Task Manager\obj\Debug\Dictionaries\Styles.baml
+C:\Users\Hamza\source\repos\Task Manager\Task Manager\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Hamza\source\repos\Task Manager\Task Manager\obj\Debug\Views\NewTaskWindow.g.cs
+C:\Users\Hamza\source\repos\Task Manager\Task Manager\obj\Debug\Views\TaskListItem.g.cs
+C:\Users\Hamza\source\repos\Task Manager\Task Manager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Hamza\source\repos\Task Manager\Task Manager\obj\Debug\Task Manager_MarkupCompile.cache
+C:\Users\Hamza\source\repos\Task Manager\Task Manager\obj\Debug\Task Manager_MarkupCompile.lref
+C:\Users\Hamza\source\repos\Task Manager\Task Manager\bin\Debug\Task Manager.exe.config
+C:\Users\Hamza\source\repos\Task Manager\Task Manager\bin\Debug\Task Manager.exe
+C:\Users\Hamza\source\repos\Task Manager\Task Manager\bin\Debug\Task Manager.pdb
+C:\Users\Hamza\source\repos\Task Manager\Task Manager\obj\Debug\App.g.cs
+C:\Users\Hamza\source\repos\Task Manager\Task Manager\obj\Debug\Views\MainWindow.baml
+C:\Users\Hamza\source\repos\Task Manager\Task Manager\obj\Debug\Views\NewTaskWindow.baml
+C:\Users\Hamza\source\repos\Task Manager\Task Manager\obj\Debug\Views\TaskListItem.baml
+C:\Users\Hamza\source\repos\Task Manager\Task Manager\obj\Debug\Task Manager.g.resources
+C:\Users\Hamza\source\repos\Task Manager\Task Manager\obj\Debug\Task_Manager.Properties.Resources.resources
+C:\Users\Hamza\source\repos\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.GenerateResource.cache
+C:\Users\Hamza\source\repos\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\source\repos\Task Manager\Task Manager\obj\Debug\Task Manager.exe
+C:\Users\Hamza\source\repos\Task Manager\Task Manager\obj\Debug\Task Manager.pdb
+C:\Users\Hamza\source\repos\Task Manager\Task Manager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hamza\source\repos\Task Manager\Task Manager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hamza\source\repos\Task Manager\Task Manager\obj\Debug\Task Man.74AF0842.Up2Date
+C:\Users\Hamza\source\repos\Task Manager\Task Manager\obj\Debug\App.baml
